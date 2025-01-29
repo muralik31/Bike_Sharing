@@ -81,6 +81,3 @@ This project is inspired by **BoomBikes business challenges** and is based on pu
 ## Contact
 Created by **[@muralik31]** – feel free to reach out!
 
----
-
-Let me know if you want to modify any section! 🚀
